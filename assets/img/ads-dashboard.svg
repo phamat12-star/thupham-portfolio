@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 760" width="1000" height="760" font-family="DM Sans, Helvetica, Arial, sans-serif">
+<rect width="1000" height="760" rx="16" fill="#fffaf3"/>
+<rect x="0.5" y="0.5" width="999" height="759" rx="16" fill="none" stroke="#eadfce"/>
+<text x="32" y="48" font-size="22" font-weight="700" fill="#2b1d0e">Saturex reseller campaign · Meta Ads</text>
+<text x="32" y="74" font-size="14" fill="#7a6650">16 Jun – 4 Jul 2026 · cost per result by ad</text>
+<rect x="738" y="32" width="230" height="28" rx="14" fill="#f3e7d6"/><text x="853" y="51" font-size="12" text-anchor="middle" fill="#7a6650">Built from Ads Manager export</text>
+<rect x="32.0" y="100" width="222.0" height="92" rx="12" fill="#fff" stroke="#eadfce"/>
+<text x="50.0" y="140" font-size="28" font-weight="700" fill="#2b1d0e">13.04M ₫</text>
+<text x="50.0" y="168" font-size="13" fill="#7a6650">Amount spent</text>
+<rect x="270.0" y="100" width="222.0" height="92" rx="12" fill="#fff" stroke="#eadfce"/>
+<text x="288.0" y="140" font-size="28" font-weight="700" fill="#2b1d0e">446.9K</text>
+<text x="288.0" y="168" font-size="13" fill="#7a6650">People reached</text>
+<rect x="508.0" y="100" width="222.0" height="92" rx="12" fill="#fff" stroke="#eadfce"/>
+<text x="526.0" y="140" font-size="28" font-weight="700" fill="#2b1d0e">72</text>
+<text x="526.0" y="168" font-size="13" fill="#7a6650">Conversations started</text>
+<rect x="746.0" y="100" width="222.0" height="92" rx="12" fill="#fff" stroke="#eadfce"/>
+<text x="764.0" y="140" font-size="28" font-weight="700" fill="#2b1d0e">77K ₫</text>
+<text x="764.0" y="168" font-size="13" fill="#7a6650">Best cost per conversation</text>
+<rect x="894.0" y="114" width="58" height="22" rx="11" fill="#e8670a"/><text x="923.0" y="129" font-size="12" font-weight="700" text-anchor="middle" fill="#fff">−32%</text>
+<text x="32" y="240" font-size="16" font-weight="700" fill="#2b1d0e">Message ads · cost per conversation</text>
+<text x="32" y="262" font-size="13" fill="#7a6650">Budget moved to the winning script, weakest scripts paused</text>
+<line x1="606.6491428571428" y1="278" x2="606.6491428571428" y2="488" stroke="#2b1d0e" stroke-width="1.5" stroke-dasharray="4 4"/>
+<text x="612.6491428571428" y="276" font-size="12" fill="#7a6650">Average 113K</text>
+<text x="286" y="303" font-size="13" text-anchor="end" fill="#2b1d0e">Script 6: “Tea is hard to sell”</text>
+<path d="M300,290 h205.82514285714285 a4,4 0 0 1 4,4 v10 a4,4 0 0 1 -4,4 h-205.82514285714285 z" fill="#e8670a"/>
+<text paint-order="stroke" stroke="#fffaf3" stroke-width="6" stroke-linejoin="round" x="519.8251428571429" y="303" font-size="13" font-weight="700" fill="#2b1d0e">77.3K ₫  · Winner</text>
+<text x="286" y="337" font-size="13" text-anchor="end" fill="#2b1d0e">Script 8: legal papers</text>
+<path d="M300,324 h294.8998571428571 a4,4 0 0 1 4,4 v10 a4,4 0 0 1 -4,4 h-294.8998571428571 z" fill="#d9c6ac"/>
+<text paint-order="stroke" stroke="#fffaf3" stroke-width="6" stroke-linejoin="round" x="608.8998571428572" y="337" font-size="13" font-weight="400" fill="#2b1d0e">110.1K ₫</text>
+<text x="286" y="371" font-size="13" text-anchor="end" fill="#2b1d0e">Script 5: BOFU deadline</text>
+<path d="M300,358 h301.32185714285714 a4,4 0 0 1 4,4 v10 a4,4 0 0 1 -4,4 h-301.32185714285714 z" fill="#d9c6ac"/>
+<text paint-order="stroke" stroke="#fffaf3" stroke-width="6" stroke-linejoin="round" x="615.3218571428572" y="371" font-size="13" font-weight="400" fill="#2b1d0e">112.5K ₫</text>
+<text x="286" y="405" font-size="13" text-anchor="end" fill="#2b1d0e">Script 7: results</text>
+<path d="M300,392 h383.3828571428571 a4,4 0 0 1 4,4 v10 a4,4 0 0 1 -4,4 h-383.3828571428571 z" fill="#d9c6ac"/>
+<text paint-order="stroke" stroke="#fffaf3" stroke-width="6" stroke-linejoin="round" x="697.3828571428571" y="405" font-size="13" font-weight="400" fill="#2b1d0e">142.7K ₫  · Paused</text>
+<text x="286" y="439" font-size="13" text-anchor="end" fill="#2b1d0e">Script 1: new hook</text>
+<path d="M300,426 h409.56485714285714 a4,4 0 0 1 4,4 v10 a4,4 0 0 1 -4,4 h-409.56485714285714 z" fill="#d9c6ac"/>
+<text paint-order="stroke" stroke="#fffaf3" stroke-width="6" stroke-linejoin="round" x="723.5648571428571" y="439" font-size="13" font-weight="400" fill="#2b1d0e">152.4K ₫  · Paused</text>
+<text x="286" y="473" font-size="13" text-anchor="end" fill="#2b1d0e">Script 1: VTR > 50%</text>
+<path d="M300,460 h549.4564285714285 a4,4 0 0 1 4,4 v10 a4,4 0 0 1 -4,4 h-549.4564285714285 z" fill="#d9c6ac"/>
+<text paint-order="stroke" stroke="#fffaf3" stroke-width="6" stroke-linejoin="round" x="863.4564285714285" y="473" font-size="13" font-weight="400" fill="#2b1d0e">203.9K ₫  · Paused</text>
+<line x1="300" y1="284" x2="300" y2="488" stroke="#7a6650" stroke-width="1"/>
+<text x="32" y="546" font-size="16" font-weight="700" fill="#2b1d0e">Video views · cost per ThruPlay</text>
+<text x="32" y="568" font-size="13" fill="#7a6650">Same two videos tested on two audiences</text>
+<text x="286" y="609" font-size="13" text-anchor="end" fill="#2b1d0e">Blood pressure × lookalike</text>
+<path d="M300,596 h353.96 a4,4 0 0 1 4,4 v10 a4,4 0 0 1 -4,4 h-353.96 z" fill="#e8670a"/>
+<text paint-order="stroke" stroke="#fffaf3" stroke-width="6" stroke-linejoin="round" x="667.96" y="609" font-size="13" font-weight="700" fill="#2b1d0e">69 ₫  · Winner</text>
+<text x="286" y="643" font-size="13" text-anchor="end" fill="#2b1d0e">Blood fat × pharmacists</text>
+<path d="M300,630 h483.0390909090909 a4,4 0 0 1 4,4 v10 a4,4 0 0 1 -4,4 h-483.0390909090909 z" fill="#d9c6ac"/>
+<text paint-order="stroke" stroke="#fffaf3" stroke-width="6" stroke-linejoin="round" x="797.0390909090909" y="643" font-size="13" font-weight="400" fill="#2b1d0e">94 ₫</text>
+<text x="286" y="677" font-size="13" text-anchor="end" fill="#2b1d0e">Blood pressure × pharmacists</text>
+<path d="M300,664 h508.7409090909091 a4,4 0 0 1 4,4 v10 a4,4 0 0 1 -4,4 h-508.7409090909091 z" fill="#d9c6ac"/>
+<text paint-order="stroke" stroke="#fffaf3" stroke-width="6" stroke-linejoin="round" x="822.7409090909091" y="677" font-size="13" font-weight="400" fill="#2b1d0e">99 ₫</text>
+<text x="286" y="711" font-size="13" text-anchor="end" fill="#2b1d0e">Blood fat × lookalike</text>
+<path d="M300,698 h530.7118181818181 a4,4 0 0 1 4,4 v10 a4,4 0 0 1 -4,4 h-530.7118181818181 z" fill="#d9c6ac"/>
+<text paint-order="stroke" stroke="#fffaf3" stroke-width="6" stroke-linejoin="round" x="844.7118181818181" y="711" font-size="13" font-weight="400" fill="#2b1d0e">103 ₫</text>
+<line x1="300" y1="590" x2="300" y2="726" stroke="#7a6650" stroke-width="1"/>
+</svg>

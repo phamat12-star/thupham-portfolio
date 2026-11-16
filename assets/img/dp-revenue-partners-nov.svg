@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" width="1200" height="600" font-family="DM Sans, Helvetica, Arial, sans-serif">
+<rect width="1200" height="600" rx="24" fill="#ffffff"/>
+<text x="40" y="56" font-size="28" font-weight="700" fill="#4a3418">Medpharm on Droppii: monthly revenue and active partners</text>
+<rect x="40" y="76" width="16" height="16" rx="3" fill="#e8670a"/><text x="64" y="90" font-size="18" fill="#7a5a2e">Revenue (M VND)</text>
+<line x1="250" y1="84" x2="282" y2="84" stroke="#4a3418" stroke-width="3"/><circle cx="266" cy="84" r="5" fill="#ffffff" stroke="#4a3418" stroke-width="3"/><text x="292" y="90" font-size="18" fill="#7a5a2e">Active business partners</text>
+<line x1="90" y1="510.0" x2="1110" y2="510.0" stroke="#efe4d8" stroke-width="1.5"/>
+<text x="78" y="516.0" font-size="16" text-anchor="end" fill="#7a5a2e">0M</text>
+<line x1="90" y1="452.9" x2="1110" y2="452.9" stroke="#efe4d8" stroke-width="1.5"/>
+<text x="78" y="458.9" font-size="16" text-anchor="end" fill="#7a5a2e">10M</text>
+<line x1="90" y1="395.7" x2="1110" y2="395.7" stroke="#efe4d8" stroke-width="1.5"/>
+<text x="78" y="401.7" font-size="16" text-anchor="end" fill="#7a5a2e">20M</text>
+<line x1="90" y1="338.6" x2="1110" y2="338.6" stroke="#efe4d8" stroke-width="1.5"/>
+<text x="78" y="344.6" font-size="16" text-anchor="end" fill="#7a5a2e">30M</text>
+<line x1="90" y1="281.4" x2="1110" y2="281.4" stroke="#efe4d8" stroke-width="1.5"/>
+<text x="78" y="287.4" font-size="16" text-anchor="end" fill="#7a5a2e">40M</text>
+<line x1="90" y1="224.3" x2="1110" y2="224.3" stroke="#efe4d8" stroke-width="1.5"/>
+<text x="78" y="230.3" font-size="16" text-anchor="end" fill="#7a5a2e">50M</text>
+<line x1="90" y1="167.1" x2="1110" y2="167.1" stroke="#efe4d8" stroke-width="1.5"/>
+<text x="78" y="173.1" font-size="16" text-anchor="end" fill="#7a5a2e">60M</text>
+<line x1="90" y1="110.0" x2="1110" y2="110.0" stroke="#efe4d8" stroke-width="1.5"/>
+<text x="78" y="116.0" font-size="16" text-anchor="end" fill="#7a5a2e">70M</text>
+<text x="1122" y="516.0" font-size="16" fill="#7a5a2e">0</text>
+<text x="1122" y="436.0" font-size="16" fill="#7a5a2e">20</text>
+<text x="1122" y="356.0" font-size="16" fill="#7a5a2e">40</text>
+<text x="1122" y="276.0" font-size="16" fill="#7a5a2e">60</text>
+<text x="1122" y="196.0" font-size="16" fill="#7a5a2e">80</text>
+<text x="1122" y="116.0" font-size="16" fill="#7a5a2e">100</text>
+<rect x="132.5" y="446.0" width="85.0" height="64.0" rx="6" fill="#e8670a" opacity="0.55"/>
+<text x="175.0" y="434.0" font-size="18" font-weight="700" text-anchor="middle" fill="#b95a12">11.2M</text>
+<text x="175.0" y="542.0" font-size="18" text-anchor="middle" fill="#4a3418">Jun 2025</text>
+<rect x="302.5" y="369.4" width="85.0" height="140.6" rx="6" fill="#e8670a" opacity="0.55"/>
+<text x="345.0" y="357.4" font-size="18" font-weight="700" text-anchor="middle" fill="#b95a12">24.6M</text>
+<text x="345.0" y="542.0" font-size="18" text-anchor="middle" fill="#4a3418">Jul 2025</text>
+<rect x="472.5" y="369.4" width="85.0" height="140.6" rx="6" fill="#e8670a" opacity="0.55"/>
+<text x="515.0" y="357.4" font-size="18" font-weight="700" text-anchor="middle" fill="#b95a12">24.6M</text>
+<text x="515.0" y="542.0" font-size="18" text-anchor="middle" fill="#4a3418">Aug 2025</text>
+<rect x="642.5" y="319.1" width="85.0" height="190.9" rx="6" fill="#e8670a" opacity="0.55"/>
+<text x="685.0" y="307.1" font-size="18" font-weight="700" text-anchor="middle" fill="#b95a12">33.4M</text>
+<text x="685.0" y="542.0" font-size="18" text-anchor="middle" fill="#4a3418">Sep 2025</text>
+<rect x="812.5" y="200.3" width="85.0" height="309.7" rx="6" fill="#e8670a" opacity="0.55"/>
+<text x="855.0" y="188.3" font-size="18" font-weight="700" text-anchor="middle" fill="#b95a12">54.2M</text>
+<text x="855.0" y="542.0" font-size="18" text-anchor="middle" fill="#4a3418">Oct 2025</text>
+<rect x="982.5" y="128.3" width="85.0" height="381.7" rx="6" fill="#e8670a" opacity="1"/>
+<text x="1025.0" y="116.3" font-size="18" font-weight="700" text-anchor="middle" fill="#b95a12">66.8M</text>
+<text x="1025.0" y="542.0" font-size="18" text-anchor="middle" fill="#4a3418">Nov 2025</text>
+<polyline fill="none" stroke="#4a3418" stroke-width="3" points="175.0,422.0 345.0,370.0 515.0,330.0 685.0,326.0 855.0,282.0 1025.0,182.0"/>
+<circle cx="175.0" cy="422.0" r="7" fill="#ffffff" stroke="#4a3418" stroke-width="3"/>
+<rect x="155.0" y="384.0" width="40" height="24" rx="12" fill="#4a3418"/><text x="175.0" y="402.0" font-size="15" font-weight="700" text-anchor="middle" fill="#ffffff">22</text>
+<circle cx="345.0" cy="370.0" r="7" fill="#ffffff" stroke="#4a3418" stroke-width="3"/>
+<rect x="325.0" y="332.0" width="40" height="24" rx="12" fill="#4a3418"/><text x="345.0" y="350.0" font-size="15" font-weight="700" text-anchor="middle" fill="#ffffff">35</text>
+<circle cx="515.0" cy="330.0" r="7" fill="#ffffff" stroke="#4a3418" stroke-width="3"/>
+<rect x="495.0" y="292.0" width="40" height="24" rx="12" fill="#4a3418"/><text x="515.0" y="310.0" font-size="15" font-weight="700" text-anchor="middle" fill="#ffffff">45</text>
+<circle cx="685.0" cy="326.0" r="7" fill="#ffffff" stroke="#4a3418" stroke-width="3"/>
+<rect x="665.0" y="288.0" width="40" height="24" rx="12" fill="#4a3418"/><text x="685.0" y="306.0" font-size="15" font-weight="700" text-anchor="middle" fill="#ffffff">46</text>
+<circle cx="855.0" cy="282.0" r="7" fill="#ffffff" stroke="#4a3418" stroke-width="3"/>
+<rect x="835.0" y="244.0" width="40" height="24" rx="12" fill="#4a3418"/><text x="855.0" y="262.0" font-size="15" font-weight="700" text-anchor="middle" fill="#ffffff">57</text>
+<circle cx="1025.0" cy="182.0" r="7" fill="#ffffff" stroke="#4a3418" stroke-width="3"/>
+<rect x="1005.0" y="144.0" width="40" height="24" rx="12" fill="#4a3418"/><text x="1025.0" y="162.0" font-size="15" font-weight="700" text-anchor="middle" fill="#ffffff">82</text>
+<text x="40" y="578" font-size="14" fill="#7a5a2e">Source: Droppii partner dashboard, as reported in the Dec 2025 Medpharm digital report.</text>
+</svg>
