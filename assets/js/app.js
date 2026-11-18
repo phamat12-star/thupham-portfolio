@@ -135,7 +135,7 @@
             return '<article class="visual-card strip-card"><div class="strip-top"><div class="vtext"><h3>' + esc(v.title) + '</h3><div class="vnote">' + esc(v.note) + "</div>" + (v.lines && v.lines.length ? '<div class="vlines">' + v.lines.map(function (l) { return "<p>" + esc(l) + "</p>"; }).join("") + "</div>" : "") + statsHtml + '</div><div class="strip-row">' + panels + '</div></div><div class="strip-row strip-links">' + groups + "</div></article>";
           }
             var imgs = v.images
-              ? '<div class="v-imgs' + (v.mosaic ? " mosaic" : v.grid2 ? " grid2" : v.stack ? " one" : v.lean ? " lean" : v.leanR ? " lean-r" : v.images.length === 4 ? " four" : "") + (v.leadWide ? " lead-wide" : "") + (v.wide ? " wide" : "") + (v.rowImages ? " row" : "") + (v.collage ? " collage" : "") + '">' + v.images.map(function (im) {
+              ? '<div class="v-imgs' + (v.mosaic ? " mosaic" : v.tiles ? " tiles" : v.pair ? " pair" : v.solo ? " solo" : v.grid2 ? " grid2" : v.stack ? " one" : v.lean ? " lean" : v.leanR ? " lean-r" : v.images.length === 4 ? " four" : "") + (v.leadWide ? " lead-wide" : "") + (v.wide ? " wide" : "") + (v.rowImages ? " row" : "") + (v.collage ? " collage" : "") + '">' + v.images.map(function (im) {
                   return '<button type="button" class="zoom" data-full="' + esc(im.src) + '" aria-label="Enlarge: ' + esc(im.alt) + '"><img src="' + esc(im.src) + '" alt="' + esc(im.alt) + '" loading="lazy"></button>';
                 }).join("") + "</div>"
               : "";

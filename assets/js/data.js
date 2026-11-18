@@ -436,8 +436,7 @@ window.PORTFOLIO = {
           note: "Monthly channel report · Mar – Sep 2026",
           stack: true,
           images: [
-            { src: "assets/img/p1-traffic-en.png", alt: "Traffic Social Media 2026: monthly views and viewers by channel, March to September" },
-            { src: "assets/img/p1-followers-en.png", alt: "Followers by channel, January to September 2026" }
+            { src: "assets/img/p1-traffic-en.png", alt: "Traffic Social Media 2026: monthly views and viewers by channel, March to September" }
           ],
           stats: [
             { value: "1.4M", label: "views, Mar – Sep 2026" },
@@ -449,16 +448,17 @@ window.PORTFOLIO = {
         },
         {
           title: "Short video that travels",
-          note: "TikTok and Facebook",
-          lean: true,
+          note: "TikTok · Facebook fanpage, Jan 2025",
+          pair: true,
           images: [
             { src: "assets/img/p1-tiktok-profile.jpg", alt: "Dược Medpharm TikTok profile with pinned videos at 191K, 54.8K and 27.4K views" },
-            { src: "assets/img/p1-fb-feb.jpg", alt: "Medpharm fanpage insights for February 2026: 6.8K views, all organic, steady through the month" }
+            { src: "assets/img/p1-fb-jan2025.jpg", alt: "Medpharm fanpage insights for January 2025: 46.8K views, 165.9K people reached (+52.7%), 4.2K interactions, 378 new followers" }
           ],
           stats: [
             { value: "191K", label: "views on the top Dược Medpharm TikTok video" },
-            { value: "82.5K", label: "views in the first month of 'Sức khỏe Y học'" },
-            { value: "6.8K", label: "organic Facebook views in Feb 2026, no ad spend" }
+            { value: "165.9K", label: "people reached on the Medpharm fanpage in Jan 2025 (+52.7%)" },
+            { value: "4.2K", label: "content interactions in Jan 2025 (+588.6%)" },
+            { value: "+378", label: "new followers in one month (+500%)" }
           ],
           list: [],
           button: null
@@ -466,17 +466,14 @@ window.PORTFOLIO = {
         {
           title: "AI health explainer videos",
           note: "TikTok · Sức Khỏe Y Học (@songkhoecungsaturex) · since Apr 2026",
-          lean: true,
+          solo: true,
           lines: ["A TikTok channel built on AI-made explainer videos. Each one opens with a health question, shows what happens inside the body with AI-generated visuals, and ends by inviting viewers to ask a Medpharm pharmacist in the community group."],
           images: [
-            { src: "assets/img/ai-tiktok-profile.jpg", alt: "Sức Khỏe Y Học TikTok profile: 743 followers, 7,496 likes, AI-illustrated health videos" },
             { src: "assets/img/ai-tiktok-popular.jpg", alt: "Most popular videos on the channel, led by one at 340.8K views" }
           ],
           stats: [
             { value: "340.8K", label: "views on the top video" },
-            { value: "82.5K", label: "views in the first month" },
-            { value: "743", label: "followers" },
-            { value: "7,496", label: "likes" }
+            { value: "82.5K", label: "views in the first month" }
           ],
           list: [],
           links: [
@@ -487,7 +484,7 @@ window.PORTFOLIO = {
         {
           title: "AI-ready Brand Hub",
           note: "Google Drive · Second Brain - Medpharm",
-          leanR: true,
+          pair: true,
           lines: ["A shared knowledge base for the team: positioning, audience, tone of voice, products, visuals, competitors and content pillars, plus customer insight research. Each document is written as structured Markdown, so AI assistants can use it as brand context and every brief, caption and script starts on-brand. The next step is a Telegram bot on top of it, so anyone on the team can ask a question and get an answer with its source file (concept shown below)."],
           images: [
             { src: "assets/img/brandhub-drive.svg", alt: "Google Drive folder 'Second Brain - Medpharm' with the Brand Hub open: ten brand documents with what each one holds" },
@@ -527,11 +524,9 @@ window.PORTFOLIO = {
           title: "Satellite page network on Facebook",
           note: "Facebook search coverage · 115 pages, Mar – Aug 2026",
           lines: ["A network of Facebook pages built around health keywords. Search \"trà điều chỉnh huyết áp\" (blood pressure tea) on Facebook and the results are a wall of Saturex pages, each leading back to the main page."],
-          grid2: true,
-          leadWide: true,
+          tiles: true,
           images: [
             { src: "assets/img/sx-fb-search.jpg", alt: "Facebook search results for 'trà điều chỉnh huyết áp': six Saturex pages in a row" },
-            { src: "assets/img/sx-page-report.png", alt: "Weekly report of the cover pages: posts and visits, March to August 2026" },
             { src: "assets/img/sx-keywords.png", alt: "Keyword tracking: 57 tea and health keywords and where each ranks" }
           ],
           stats: [
@@ -546,13 +541,10 @@ window.PORTFOLIO = {
         {
           title: "Content pillars by funnel stage",
           note: "Pillar 1 · Decoding modern health",
-          grid2: true,
-          leadWide: true,
-          lines: ["Each content pillar was planned as a funnel. Topics move from naming a health problem, to a tip people can try at home, to the product story and its proof. The two screenshots are the original Vietnamese plan; the graphic above is an English summary."],
+          solo: true,
+          lines: ["Each content pillar was planned as a funnel. Topics move from naming a health problem, to a tip people can try at home, to the product story and its proof."],
           images: [
-            { src: "assets/img/plan-pillar-en.svg", alt: "Content pillar 'Decoding modern health' in three funnel stages: Awareness, Interest and Product story, with four sample topics each" },
-            { src: "assets/img/plan-topics-awareness.jpg", alt: "Content pillar 'Decoding modern health': Awareness-stage topics with a note on each (in Vietnamese)" },
-            { src: "assets/img/plan-topics-interest.jpg", alt: "Content pillar 'Decoding modern health': Interest-stage topics, moving from health tips to the Saturex story (in Vietnamese)" }
+            { src: "assets/img/plan-pillar-en.svg", alt: "Content pillar 'Decoding modern health' in three funnel stages: Awareness, Interest and Product story, with four sample topics each" }
           ],
           stats: [
             { value: "30", label: "Awareness topics" },
@@ -565,12 +557,10 @@ window.PORTFOLIO = {
         {
           title: "Content planning system",
           note: "Monthly calendar, pillars and funnel mix · 2025",
-          grid2: true,
-          leadWide: true,
+          tiles: true,
           lines: ["Each month was planned as one calendar: occasions, product focus, funnel phase, content pillar and angle. A tracker then logged every post, with its platform, status and final link."],
           images: [
             { src: "assets/img/plan-occasions.jpg", alt: "Monthly occasion plan for October 2025: Mid-Autumn, menopause day, Vietnamese Women's Day and Halloween, with product focus, funnel phase and pillar" },
-            { src: "assets/img/plan-frequency.jpg", alt: "Posting frequency by platform, content type and product, January to October 2025" },
             { src: "assets/img/plan-calendar.jpg", alt: "Content calendar for October 2025 by platform and product" },
             { src: "assets/img/plan-tracker.jpg", alt: "Post tracker with date, platform, style, status, product, pillar, topic and final link" },
             { src: "assets/img/plan-blog-tracker.jpg", alt: "Website blog tracker, 2025: article title, focus keyword, word count, status, product and publish date" }
@@ -578,8 +568,7 @@ window.PORTFOLIO = {
           stats: [
             { value: "40% / 40% / 20%", label: "awareness / consideration / conversion split", wide: true },
             { value: "51", label: "educational posts in January 2025, the peak" },
-            { value: "48", label: "shareable posts in July 2025" },
-            { value: "10", label: "channels in the monthly plan" }
+            { value: "48", label: "shareable posts in July 2025" }
           ],
           listTitle: "What the planning sheets show",
           list: [
